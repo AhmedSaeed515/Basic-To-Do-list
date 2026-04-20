@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="Plans">What is your plans for Today</string>
+    <string name="tasks">Today\'s tasks</string>
+    <string name="taskName">Add Task Name</string>
+    <string name="taskDecs">Add Task Description</string>
+    <string name="str_item1">Task Menu</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="update_your_task">Update Your Task</string>
+    <string name="task">Task</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Task Description</string>
+    <string name="back">Back</string>
+</resources>
